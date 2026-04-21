@@ -1,4 +1,4 @@
-# 🍄 USB Mario — Plug & Play Platformer
+# 🍄 USB Mario - Plug & Play Platformer
 
 A complete Mario-style platformer game that runs directly from a USB stick. No installation. No internet. Just plug in and play.
 
