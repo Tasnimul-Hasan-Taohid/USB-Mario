@@ -1,0 +1,8 @@
+[AutoRun]
+label=USB Mario
+open=launcher\launch.bat
+icon=launcher\icon.ico
+action=Play USB Mario
+
+[AutoRun.Inf]
+UseAutoPlay=1
